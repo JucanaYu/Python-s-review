@@ -1,0 +1,1 @@
+input("按下enter键退出")
